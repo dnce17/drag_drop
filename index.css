@@ -3,5 +3,18 @@
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    background: gray;
+  }
+
+  .circle-one {
+    background-color: aqua;
+  }
+
+  .circle-two {
+    background-color: red;
+    left: 150px;
+  }
+
+  .circle-three {
+    background-color: green;
+    left: 300px;
   }
